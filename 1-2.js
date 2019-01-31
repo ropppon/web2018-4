@@ -1,6 +1,6 @@
 function hyoji(){
 //表示する文字
-var str = "JOSAI UNIVERCITY!";
+var str = "JOSAI!!!";
 //テキストボックスの文字数
 var cnt = document.timer.moji.value.length;
 //文字が全部表示されているか確認
